@@ -16,8 +16,11 @@ Zipf's Law is an empirical statistical law that describes the distribution of fr
 It was first formulated by the linguist George Zipf in the early 20th century and is often observed in natural language texts, as well as in other domains such as economics and information retrieval.
 Zipf's Law states that the frequency of any word (or item) in a large dataset is inversely proportional to its rank. In other words, the most frequent word is roughly twice as common as the second most frequent word, three times as common as the third most frequent word, and so on.
 Mathematically, Zipf's Law can be expressed as:
+
 f(r) = C / r^s
+
 Where:
+
 f(r) is the frequency of the word/item ranked r.
 C is a constant.
 s is a parameter typically close to 1.
